@@ -9,7 +9,9 @@ Lots of bash commands are supported, but some are not.
 - Clone repo somewhere
 - Add this repo's `bin` directory at the **beginning** of your path in your `$HOME/.bashrc`
 
-    export PATH="$HOME/src/git-bash-shims/bin:$PATH"
+```
+export PATH="$HOME/src/git-bash-shims/bin:$PATH"
+```
 
 ## Commands Shimmed
 
